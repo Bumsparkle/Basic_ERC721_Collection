@@ -1,4 +1,4 @@
-# Generic_ERC721_Collection
+# Basic_ERC721_Collection
 Based on Eth Documentation
 
 This is missing the following files:
