@@ -6,7 +6,8 @@ This is missing files:
 - cache
 - node_modules
 - .env
-*All stored locally
+
+//All stored locally
 
 https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/
 https://ethereum.org/en/developers/tutorials/how-to-mint-an-nft/
